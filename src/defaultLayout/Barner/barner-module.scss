@@ -1,0 +1,18 @@
+.barner_{
+  width: 100%;
+}
+.Barner{
+  margin-top: 80px;
+}
+.barner2_{
+  display: none;
+  width: 100%;
+}
+@media (min-width: 500px) and (max-width: 900px) {
+  .barner_{
+    display: none;
+  }
+  .barner2_{
+    display: flex;
+  }
+}

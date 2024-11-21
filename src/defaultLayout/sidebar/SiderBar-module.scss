@@ -1,0 +1,133 @@
+.Blog_main_main{
+  margin-top: 85px;
+display: flex;
+  justify-content: center;
+}
+.img_sidebar{
+  width: 100%;
+}
+.blog_menu_search{
+  display: flex;
+  justify-content: center;
+}
+.SideBar_list_item{
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37.5px;
+  color: #f1692f;
+  margin: 0;
+  border-bottom: 5px solid #f1692f;
+}
+.SideBar_list_item_main{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 70.11px;
+
+    border-bottom: 1px dotted black;
+  }
+}
+.lhdsiufg{
+display: flex;
+  justify-content: center;
+}
+.register_academy{
+
+  background-color: #f1692f;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  p{
+    color: white;
+  }
+}
+.siderbar_main_list{
+  display: flex;
+  justify-content: center;
+}
+.register-title{
+  font-size: 24px;
+  line-height: 28.13px;
+  font-weight: 700;
+  text-align: center;
+}
+.list_instructions{
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
+.input_list_siderbar{
+  padding: 10px;
+  border: 1px solid #ffc68b;
+  outline: none;
+  border-radius: 1px;
+  width: 100% !important;
+  background-color: white;
+}
+.btn_register{
+  background-color: #282828;
+  color: white;
+  outline: none;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+.Blog_relate_to_img{
+  width: 100%;
+}
+.Blog_relate_to_title{
+  font-size: 16px;
+  line-height: 18.75px;
+  font-weight: 700;
+  color: #f1692f;
+}
+.Blog_relate_to_img{
+  color: black;
+  font-size: 16px;
+  line-height: 18.75px;
+font-weight: 400;
+  text-align: justify;
+}
+.Blog_relate_to_list{
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+.Blog_relate_to_main{
+  display: flex;
+  justify-content: center !important;
+
+}
+.Blog_relatsdfde_to{
+  display: flex;
+  justify-content: center;
+  background-color: #f0f0f0;
+}
+@media only screen and (max-width: 700px) {
+ .img_sidebar{ display: none;}
+ .list_main_academy{  display: none;}
+.Blog_relatsdfde_to1{
+  display: flex !important;
+}
+  .Blog_relatsdfde_to1{
+    display: flex !important;
+  }
+  .Blog_relatsdfde_to1{
+    display: flex !important;
+  }
+  .Blog_relatsdfde_to
+  {
+    display: none !important;
+  }
+}
+.Blog_relatsdfde_to1{
+  display: none  !important;
+}
